@@ -26,7 +26,7 @@ The app uses local storage to save your financial data, ensuring your privacy an
 
 ## Contributors
 
-- Your Name
+- Varad Gupta
 
 Feel free to contribute to this project and make it even better!
 
